@@ -1,0 +1,11 @@
+.header{
+    color: blue;
+}
+table, th, td, tr {
+    border: 3px solid black;
+}
+.ontime{
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
