@@ -1,0 +1,38 @@
+.nav{
+    position: fixed;
+    font-family: georgia;
+}
+.post_head{
+    position: center;
+    padding: 100px;
+}
+p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.header {
+    height: 100px;
+    width: 500px;
+    background-color:#F5C6D6;
+    padding:100px;
+    margin: 20px;
+}
+
+.sub1{ 
+    height: 50px;
+    width: 100px;
+    background-color:#EE2E84;
+    padding: 80px;
+}
+ .sub2{
+height: 50px;
+width: 100px;
+background-color:#EE2E84;
+
+left: 50px;
+
+}
