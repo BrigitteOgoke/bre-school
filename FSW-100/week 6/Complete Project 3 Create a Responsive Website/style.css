@@ -1,0 +1,36 @@
+.main-nav li {
+    text-align: center;
+    margin: 10px auto;
+  list-style: none;
+  overflow: hidden;
+  background: #111
+}
+li{
+    float: top;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+    .product-image{
+     margin-right: auto;
+     margin-left: auto;
+     display: block;
+     width: 30%;
+     
+  }
+    .product-info{
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-display: 
+
+    
+
+    }
