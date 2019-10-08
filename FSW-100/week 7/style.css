@@ -1,0 +1,85 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.right-menu li{
+  display: inline-block;
+  margin-top: 30px !important;
+}
+.right-menu .fa{
+  font-size: 18px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.navbar-brand img{
+  width: 160px;
+}
+.logo{
+  width: 40px;
+  height: 130px;
+  position: relative;
+}
+.navbar-brand {
+  left: 50%;
+  top: 25px;
+  transform: translateX(-50%);
+  position: absolute;
+  
+}
+.header{
+  background-color: rgba(255, 255, 255, 0.596);
+}
+.navbar-brand{
+  padding: 0 35px;
+}
+
+.navbar-brand-toggler {
+  border: none;
+  outline: none;
+  padding: 0;
+  margin-top: 30px;
+}
+.navbar-brand-toggler.fa{
+font-size: 30px;
+cursor: pointer;
+}
+.banner-img{
+  margin: 20px 20px 10px 230px;
+  padding: 30px;
+  
+
+}
+.products{
+padding: 40px;
+
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+ #button1 a :hover{
+  color: red;
+}
+
+.card img{
+  width: 300px;
+  height: 300px;
+  padding: 50px;
+  
+}
+
+ 
+
+
+
+  
+}
